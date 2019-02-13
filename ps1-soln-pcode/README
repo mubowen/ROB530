@@ -1,0 +1,8 @@
+run.m is the main program.  do `help run` from the Matlab command prompt to see
+the different options available.
+
+The demo.m script provides several examples of calling the run.m file with
+different options.  Look at the demo.m file to see the different scenarios
+available.  To run a particular demo, type `demo(N)` from the command line where
+N is an integer specifying the demo number. e.g., `demo(15)` would run case 15,
+which is the nominal EKF-based localization algorithm.
